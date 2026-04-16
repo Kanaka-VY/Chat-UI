@@ -26,3 +26,9 @@ A modern responsive Chat UI assignment project built with:
 - `js/chat.js`
 - `screenshots/` (add desktop/mobile/tablet screenshots)
 
+- ## Run
+
+1. Open `index.html` in browser  
+or  
+2. Use VS Code Live Server for best experience.
+
